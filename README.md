@@ -4,8 +4,6 @@ A data warehouse project that analyses the **territorial attractiveness for phys
 
 Data is transformed via a Python/Pandas ETL into a **star schema** (fact + dimensions), exported as CSV files for visualisation in [Apache Superset](https://superset.apache.org/).
 
-![Software architecture](docs/architecture_logicielle.png)
-
 📄 [Full report](docs/rapport.pdf) · 📊 [Superset dashboard](docs/dashboard.pdf)
 
 ## Project Structure
